@@ -1,4 +1,4 @@
-# wayfinderai
+# Wayfinder AI
 
 Wayfinder: See the World Through AI
 
