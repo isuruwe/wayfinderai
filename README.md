@@ -4,6 +4,8 @@ Wayfinder: See the World Through AI
 
 Navigate with confidence using real-time path guidance and obstacle detection.
 
+This FLutter app created for Gemini API Developer Competition
+
 Here's how it works:
 
 Live Video Stream: Open Wayfinder and point your phone's camera at your surroundings.
