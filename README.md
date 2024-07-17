@@ -4,7 +4,7 @@ Wayfinder: See the World Through AI
 
 Navigate with confidence using real-time path guidance and obstacle detection.
 
-This FLutter app created for Gemini API Developer Competition
+This Flutter app created for Gemini API Developer Competition
 
 Here's how it works:
 
